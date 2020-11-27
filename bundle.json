@@ -1,0 +1,7 @@
+{
+    "edgeworker-version": "10.4", 
+    "description" : "Redirect unsupported browsers",
+    "misc" : {
+        "author" : "Ram Vasu"
+     }
+}
